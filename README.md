@@ -15,7 +15,7 @@ All RL AI follows the same pattern:
 4. The environment sends back a **reward** (a variable that tell to the AI how much the choosen **action** was good) and a new **state** (the environement after the action).
 5. if not done returns to step 2.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FReinforcement-Learning-Agent-and-Environment_fig2_323867253&psig=AOvVaw0ajiGaCz-cguPuJ3pkrU0o&ust=1654211650927000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPCu3-GwjfgCFQAAAAAdAAAAABAe)
+![](https://www.researchgate.net/profile/Roohollah-Amiri/publication/323867253/figure/fig2/AS:606095550738432@1521515848671/Reinforcement-Learning-Agent-and-Environment.png)
 
 For example, a tic-tac-toe AI (that plays with the cross):
 1. the AI receives an array that represents all the cells state of the grid (Cross/Circle/Nothing).
