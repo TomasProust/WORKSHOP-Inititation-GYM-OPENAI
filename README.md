@@ -57,4 +57,8 @@ pip install gym
 
 [INSERT]
 
+## A workshop made by
+
+[INSERT]
+
 # THANK YOU FOR YOUR PARTICIPATION!
